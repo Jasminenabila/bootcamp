@@ -1,1 +1,7 @@
 https://docs.google.com/spreadsheets/d/1rn4MZYugoKOU5o2KQ2LMq2FCT9wOnKOCHT_VGjrSUB8/edit?gid=0#gid=0
+
+#google docs ini berisi
+- link postman documenter nya
+- pre request script di postman nya
+- base url yang dipakai
+- link github beserta video recording nya (kalau mau buka video running nya, di download dulu eaa)
