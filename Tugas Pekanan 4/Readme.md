@@ -1,6 +1,6 @@
 ## Laporan Tugas Pekanan 4
 
-## Video Recording
+## Video Recording & Evidence Screenshot Testing
 https://drive.google.com/drive/folders/1R-gfhdEWmY97W50vFdwtbA4B3fI6kGF3?usp=sharing
 
 
@@ -9,3 +9,4 @@ https://docs.google.com/spreadsheets/d/1kH4Etk7RDgVPOC72WmBzVXxiVLhT25n9RH_fsv-I
 
 
 ## Link Github
+https://github.com/Jasminenabila/bootcamp/tree/main/Tugas%20Pekanan%204
